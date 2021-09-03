@@ -5,15 +5,15 @@
 
 ✔️ My main experience is in front-end development but I also have a passion for design. Given that producing a modern website requires the combination of design, server              technology, and the layer that users interacts with, I believe having experience in both design and development allows for making the most optimal user experiences.
 
--💎 Skills : 
--💥 JavaScript (React, Node, Next etc.)
--💥 HTML
--💥 Semantic HTML
--💥 CSS
--💥 SCSS
--💥 Styled Component
--💥 Responsive CSS
--💥 Performance
+💎 Skills : 
+💥 JavaScript (React, Node, Next etc.)
+💥 HTML
+💥 Semantic HTML
+💥 CSS
+💥 SCSS
+💥 Styled Component
+💥 Responsive CSS
+💥 Performance
 
 <!---
 Yash2906/Yash2906 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
