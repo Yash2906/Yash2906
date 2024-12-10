@@ -1,7 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm yash panchal</h1>
 <h3 align="center">A young-dumb 🤓 passionate frontend developer from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash2906&label=Profile%20views&color=0e75b6&style=flat" alt="yash2906" /> </p>
+[![Visits Badge](https://badges.pufler.dev/visits/Yash2906/badge-it)](https://badges.pufler.dev)
 
 - 👨‍💻 All of my projects are available at <a href="https://yashpanchal.webflow.io/" target="blank"><b>Yash Panchal</b></a>
 
