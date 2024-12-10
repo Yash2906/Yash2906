@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm yash panchal</h1>
 <h3 align="center">A young-dumb 🤓 passionate frontend developer from India 🇮🇳</h3>
 
-[![Visits Badge](https://badges.pufler.dev/visits/Yash2906/badge-it)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/Yash2906/badge-it)](https://yashpanchal.webflow.io/)
 
-- 👨‍💻 All of my projects are available at <a href="https://yashpanchal.webflow.io/" target="blank"><b>Yash Panchal</b></a>
+- 👨‍💻 All of my projects are available at <a href="https://yashpanchal.webflow.io/" target="_blank"><b>Yash Panchal</b></a>
 
 - 💬 Ask me about **react next react-native**
 
